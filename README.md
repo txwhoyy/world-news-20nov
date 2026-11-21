@@ -18,7 +18,31 @@ assets.
 ## The eight stories
 
 All eight were verified against reporting published on 20 November 2026.
-(The builder fills in the verified story list before submitting.)
+
+1. **Russia hits Kyiv's bridges in overnight barrage** — Russian missiles
+   struck three of Kyiv's road bridges overnight, killing eight people and
+   injuring 28 across nine regions. Source: Reuters.
+2. **Russian missile crashes in Poland** — Poland said two Russian missiles
+   and a drone violated its airspace overnight; Warsaw condemned the
+   incursion as intentional. Source: BBC.
+3. **UK and EU agree new deal at summit** — Britain and the EU agreed a deal
+   on food exports, emissions trading and a youth mobility scheme at their
+   Brussels summit. Source: BBC.
+4. **Trump threatens ban on overseas AI data centres** — President Trump
+   threatened to ban US firms from building AI data centres abroad,
+   escalating his technology crackdown. Source: BBC.
+5. **Houthi missile hits Riyadh tower** — A Houthi missile damaged the
+   sovereign wealth fund tower in Riyadh, and Saudi defences intercepted
+   more missiles on Friday. Source: AP / Sky News.
+6. **Tech sell-off deepens after Anthropic debut** — Anthropic shares fell a
+   day after their blockbuster Nasdaq debut, and Asian markets slid —
+   Japan's Nikkei down 4.8%. Source: BBC / CNBC.
+7. **Cost-of-living protests sweep Europe** — Thousands marched across
+   Europe on Friday against the cost of living, in coordinated protests
+   over prices and household bills. Source: BBC.
+8. **BepiColombo reaches Mercury after eight years** — The BepiColombo probe
+   reached Mercury after an eight-year, six-billion-mile voyage; it enters
+   orbit on Saturday. Source: BBC / NPR.
 
 ## Run it
 
